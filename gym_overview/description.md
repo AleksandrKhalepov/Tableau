@@ -19,3 +19,4 @@
 # Далее я попробовал зарисовать несколько вариантов дашборда и остановился на этом:
 (https://github.com/AleksandrKhalepov/Tableau/blob/main/gym_overview/sketch.pdf)
 
+![Uploading Screenshot 2025-08-14 at 16.36.07.png…]()
